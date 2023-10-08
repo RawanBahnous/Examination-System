@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1R/lMynwf/43r1P1v3tpN2oNFcqj5wmdaWZytoUF6bfUI1em09H/FP/Bu9Z7I3PMmk1HSE1j3epU52whxx+JZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Practice For Deploy\\C#\\Practice OOP\\Examinationoop\\ExamSystem\\ExamSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
